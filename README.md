@@ -4,11 +4,11 @@ Checked whether the person used correct form in the workout which had the potent
 
 Tasks done :
 1) Cleaned the dataset by removing irrelevant variables
-2)Used subsample set of 1000 rows and implemented various machine learning algorithms on our model
-3)Tested Naïve Bayes, Generalized Boosting Models & Random Forests
-4)Determined that Random Forests had the highest accuracy when implemented
-5)Accuracy of the cross-validation using the Random Forest algorithm was optimal, with an accuracy of 86.2%
-6)Used Random Forest to predict the remaining data and was done with 99.27% accuracy
+2) Used subsample set of 1000 rows and implemented various machine learning algorithms on our model
+3) Tested Naïve Bayes, Generalized Boosting Models & Random Forests
+4) Determined that Random Forests had the highest accuracy when implemented
+5) Accuracy of the cross-validation using the Random Forest algorithm was optimal, with an accuracy of 86.2%
+6) Used Random Forest to predict the remaining data and was done with 99.27% accuracy
 
 Languages used - R
 Tools used - R Studio
